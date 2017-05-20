@@ -4,9 +4,13 @@
 
 (2) Speeding up your Neural Network with Theano and the GPU
 
+.theanorc.txt				%USERPROFLIE%\.theanorc.txt
+
 ann_classification_ActvFn.py		(1) Ex.3  other activation function
 
 ann_classification_Ann_lrate.py		(1) Ex.2  Annealing the learning rate (Step decay)
+
+ann_classification_four_layers.py	(1) Ex.5  four layers
 
 ann_classification_minibatch.py		(1) Ex.1  use minibatch gradient descent / modified at main()
 
