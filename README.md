@@ -20,5 +20,5 @@ ann_classification_Theano.jpg		(2) Full GPU-optimzied output graph
 
 ann_classification_three_class.py	(1) Ex.4  three classes
 
-gputest.py				(2) Theano and GPU Test
+gputest2.py				Theano GPU Test
 
