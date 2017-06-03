@@ -4,6 +4,8 @@
 
 (2) Speeding up your Neural Network with Theano and the GPU
 
+(4) Recurrent Neural Networks Tutorial, Part 2 ? Implementing a RNN with Python, Numpy and Theano
+
 .theanorc.txt				%USERPROFLIE%\.theanorc.txt
 
 ann_classification_ActvFn.py		(1) Ex.3  other activation function
@@ -22,3 +24,4 @@ ann_classification_three_class.py	(1) Ex.4  three classes
 
 gputest2.py				Theano GPU Test
 
+rnn-generate_text.py			(4) read csv, tokenize by nltk, load model parameter, and generate text
